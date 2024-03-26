@@ -35,8 +35,9 @@ Enjoy random video calls with other users.
 ## Screenshots
 ![Screenshot 2024-03-26 145451](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/2df3cc19-02ab-40d7-a67c-f580d316cb52)
 ![Screenshot 2024-03-26 143338](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/2f3485c9-dffe-48d7-92eb-49c89bf8df6a)
-![Screenshot 2024-03-26 143506](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/0dc186d3-ac56-4782-aaae-ed86c274ac5a)
-![Screenshot 2024-03-26 143409](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/3cb53b67-aee6-431f-8565-42dde6d51e34)
 ![Screenshot 2024-03-26 143400](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/ab02f7e2-a4e1-46dc-af5f-7319fb352d87)
 ![Screenshot 2024-03-26 143310](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/7df44a18-dc82-40e1-b110-b7721ebf7af2)
+![Screenshot 2024-03-26 143506](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/0dc186d3-ac56-4782-aaae-ed86c274ac5a)
+![Screenshot 2024-03-26 143409](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/3cb53b67-aee6-431f-8565-42dde6d51e34)
+
 

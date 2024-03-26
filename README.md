@@ -33,9 +33,7 @@ Sign in with your credentials or create a new account if you are a new user.
 Earn coins by watching ads to initiate video calls.
 Enjoy random video calls with other users.
 ## Screenshots
-![WhatsApp Image 2024-03-26 at 14 43 02_09db8085](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/e3ae1906-18e4-4ce0-a6af-ea2902ab9314)
-![WhatsApp Image 2024-03-26 at 14 40 57_b811925d](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/e484ce2d-2226-40cf-8301-9e43bb888da3)
-![Screenshot 2024-03-26 143506](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/0dc186d3-ac56-4782-aaae-ed86c274ac5a)![WhatsApp Image 2024-03-26 at 14 43 02_09db8085](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/8b22fb2b-9fec-485c-965d-d8ac967dc526)
+![Screenshot 2024-03-26 143506](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/0dc186d3-ac56-4782-aaae-ed86c274ac5a)
 ![Screenshot 2024-03-26 143409](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/3cb53b67-aee6-431f-8565-42dde6d51e34)
 ![Screenshot 2024-03-26 143400](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/ab02f7e2-a4e1-46dc-af5f-7319fb352d87)
 ![Screenshot 2024-03-26 143310](https://github.com/mohdkaif2304/Random-Calling/assets/118160035/7df44a18-dc82-40e1-b110-b7721ebf7af2)

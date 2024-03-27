@@ -1,17 +1,16 @@
 ## Random Video Calling Application
 The Random Video Calling application is an Android application that allows users to initiate random video calls with other users. This README provides an overview of the application's features, functionality, and main components.
 
-Overview
+## Overview
 The Random Video Calling application enables users to:
-
 Initiate random video calls with other users.
 View their profile information, including their profile picture and available coins.
 Earn coins by watching ads, which can be used to initiate video calls.
 Features
-User Authentication
+## User Authentication
 The application utilizes Firebase Authentication to authenticate users securely. Users are required to sign in with their credentials to access the app's features.
 
-Profile Management
+## Profile Management
 Users can view their profile information, including their profile picture and available coins. Profile information is fetched from the Firebase Realtime Database.
 
 ## Video Calling
@@ -23,9 +22,9 @@ The application handles permissions for camera and microphone access to enable v
 ## Main Libraries Used
 The Random Video Calling application utilizes the following main libraries:
 androidx.appcompat:appcompat:1.5.1: Provides backward compatibility for newer Android features.
-com.google.firebase:firebase-auth:21.1.0: Implements Firebase Authentication for user authentication.
-com.google.firebase:firebase-database:20.1.0: Integrates Firebase Realtime Database for storing and retrieving user profile information.
-com.bumptech.glide:glide:4.14.2: Facilitates image loading and caching for displaying user profile pictures.
+FIREBASE AUTH :: com.google.firebase:firebase-auth:21.1.0: Implements Firebase Authentication for user authentication.
+FIREBASE ::  DATABASEcom.google.firebase:firebase-database:20.1.0: Integrates Firebase Realtime Database for storing and retrieving user profile information.
+GLIDE :: com.bumptech.glide:glide:4.14.2: Facilitates image loading and caching for displaying user profile pictures.
 ## Usage
 To use the Random Video Calling application:
 Install the application on an Android device.
